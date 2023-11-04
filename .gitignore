@@ -106,7 +106,7 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
-
+nsit{Welcome_Watson}
 # yarn v2
 .yarn/cache
 .yarn/unplugged
